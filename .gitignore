@@ -1,4 +1,6 @@
-data/binfo1-datapack1/*.bam
-data/binfo1-datapack1/*.bai
-data/*.gtf
+*.bam
+*.bai
+*.gtf
 notebooks/.ipynb_checkpoints
+*.bed
+
