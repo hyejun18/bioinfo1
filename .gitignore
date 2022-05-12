@@ -3,4 +3,4 @@
 *.gtf
 notebooks/.ipynb_checkpoints
 *.bed
-
+data
